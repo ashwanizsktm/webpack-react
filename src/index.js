@@ -5,3 +5,5 @@ const elevenShildRecipe = {
 }
 
 console.log(elevenShildRecipe);
+
+console.log("process.env.ASSET_PATH", process.env.ASSET_PATH);

@@ -1,0 +1,1 @@
+console.log({leatherStrips:2,ironIgint:1,refindMoonstone:4});

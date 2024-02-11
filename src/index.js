@@ -1,3 +1,5 @@
+import "./styles/style.css";
+
 const elevenShildRecipe = {
     leatherStrips: 2,
     ironIgint : 1,
